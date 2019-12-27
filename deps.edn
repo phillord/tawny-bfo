@@ -1,0 +1,2 @@
+{:paths ["src" "resources"]
+ :deps {uk.org.russet/tawny-owl {:mvn/version "2.0.0"}}}
