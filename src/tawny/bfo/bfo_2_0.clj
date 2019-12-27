@@ -12,4 +12,3 @@
   :transform #'tawny.read/label-transform
   :filter (partial #'tawny.read/iri-starts-with-filter
                    "http://purl.obolibrary.org/obo/BFO"))
-b
