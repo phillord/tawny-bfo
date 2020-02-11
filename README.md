@@ -1,4 +1,4 @@
-# Tawny-BFOq
+# Tawny-BFO
 
 This is an import of BFO, the Basic Formal Ontology. Both BFO 2 and
 BFO-1.1 are supported. Concepts can be refered by names derived from
